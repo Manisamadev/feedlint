@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "SKU-001",
+      "title": "Organic Cotton T-Shirt",
+      "description": "A soft, breathable t-shirt made from 100% organic cotton.",
+      "link": "https://shop.example.com/products/sku-001",
+      "image_link": "https://shop.example.com/images/sku-001.jpg",
+      "price": "3500 JPY",
+      "availability": "in_stock"
+    },
+    {
+      "id": "SKU-002",
+      "title": "Stainless Steel Water Bottle, 750 ml",
+      "description": "Double-walled insulated bottle that keeps drinks cold for 24 hours.",
+      "link": "https://shop.example.com/products/sku-002",
+      "image_link": "https://shop.example.com/images/sku-002.jpg",
+      "price": "24.99 USD",
+      "availability": "out_of_stock"
+    },
+    {
+      "id": "SKU-003",
+      "title": "Wireless Noise-Cancelling Headphones",
+      "description": "Over-ear headphones with 30-hour battery life. Ships next month.",
+      "link": "https://shop.example.com/products/sku-003",
+      "image_link": "https://shop.example.com/images/sku-003.jpg",
+      "price": "19800 JPY",
+      "availability": "preorder"
+    }
+  ]
+}

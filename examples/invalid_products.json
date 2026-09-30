@@ -1,0 +1,73 @@
+[
+  {
+    "id": "SKU-100",
+    "title": "Canvas Tote Bag",
+    "description": "Sturdy everyday tote bag. This item has no problems.",
+    "link": "https://shop.example.com/products/sku-100",
+    "image_link": "https://shop.example.com/images/sku-100.jpg",
+    "price": "2200 JPY",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-101",
+    "title": "Leather Wallet",
+    "description": "Problem: the price field is missing.",
+    "link": "https://shop.example.com/products/sku-101",
+    "image_link": "https://shop.example.com/images/sku-101.jpg",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-102",
+    "title": "Ceramic Coffee Mug",
+    "description": "Problem: the price has no currency code.",
+    "link": "https://shop.example.com/products/sku-102",
+    "image_link": "https://shop.example.com/images/sku-102.jpg",
+    "price": "1800",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-103",
+    "title": "Wool Beanie",
+    "description": "Problem: availability uses a space instead of an underscore.",
+    "link": "https://shop.example.com/products/sku-103",
+    "image_link": "https://shop.example.com/images/sku-103.jpg",
+    "price": "2900 JPY",
+    "availability": "in stock"
+  },
+  {
+    "id": "SKU-104",
+    "title": "Bamboo Cutting Board",
+    "description": "Problem: link has no scheme and image_link is a relative path.",
+    "link": "www.shop.example.com/products/sku-104",
+    "image_link": "/images/sku-104.jpg",
+    "price": "3200 JPY",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-100",
+    "title": "Canvas Tote Bag (Large)",
+    "description": "Problem: reuses the id of the first item.",
+    "link": "https://shop.example.com/products/sku-100-large",
+    "image_link": "https://shop.example.com/images/sku-100-large.jpg",
+    "price": "2600 JPY",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-106",
+    "title": "Running Shoes Men Women Unisex Lightweight Breathable Mesh Sneakers Gym Workout Jogging Walking Trail Road Marathon Training Athletic Sport Shoes Best Gift Sale",
+    "description": "Problem: the title is keyword-stuffed and too long (warning).",
+    "link": "https://shop.example.com/products/sku-106",
+    "image_link": "https://shop.example.com/images/sku-106.jpg",
+    "price": "8900 JPY",
+    "availability": "in_stock"
+  },
+  {
+    "id": "SKU-107",
+    "title": "   ",
+    "description": "Problem: the title contains only whitespace.",
+    "link": "https://shop.example.com/products/sku-107",
+    "image_link": "https://shop.example.com/images/sku-107.jpg",
+    "price": "1500 JPY",
+    "availability": "in_stock"
+  }
+]

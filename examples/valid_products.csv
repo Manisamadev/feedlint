@@ -1,0 +1,4 @@
+id,title,description,link,image_link,price,availability
+SKU-001,Organic Cotton T-Shirt,"A soft, breathable t-shirt made from 100% organic cotton.",https://shop.example.com/products/sku-001,https://shop.example.com/images/sku-001.jpg,3500 JPY,in_stock
+SKU-002,"Stainless Steel Water Bottle, 750 ml",Double-walled insulated bottle that keeps drinks cold for 24 hours.,https://shop.example.com/products/sku-002,https://shop.example.com/images/sku-002.jpg,24.99 USD,out_of_stock
+SKU-003,Wireless Noise-Cancelling Headphones,Over-ear headphones with 30-hour battery life. Ships next month.,https://shop.example.com/products/sku-003,https://shop.example.com/images/sku-003.jpg,19800 JPY,preorder

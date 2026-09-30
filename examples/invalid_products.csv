@@ -1,0 +1,9 @@
+id,title,description,link,image_link,price,availability
+SKU-100,Canvas Tote Bag,Sturdy everyday tote bag. This item has no problems.,https://shop.example.com/products/sku-100,https://shop.example.com/images/sku-100.jpg,2200 JPY,in_stock
+SKU-101,Leather Wallet,Problem: the price field is missing.,https://shop.example.com/products/sku-101,https://shop.example.com/images/sku-101.jpg,,in_stock
+SKU-102,Ceramic Coffee Mug,Problem: the price has no currency code.,https://shop.example.com/products/sku-102,https://shop.example.com/images/sku-102.jpg,1800,in_stock
+SKU-103,Wool Beanie,Problem: availability uses a space instead of an underscore.,https://shop.example.com/products/sku-103,https://shop.example.com/images/sku-103.jpg,2900 JPY,in stock
+SKU-104,Bamboo Cutting Board,Problem: link has no scheme and image_link is a relative path.,www.shop.example.com/products/sku-104,/images/sku-104.jpg,3200 JPY,in_stock
+SKU-100,Canvas Tote Bag (Large),Problem: reuses the id of the first item.,https://shop.example.com/products/sku-100-large,https://shop.example.com/images/sku-100-large.jpg,2600 JPY,in_stock
+SKU-106,Running Shoes Men Women Unisex Lightweight Breathable Mesh Sneakers Gym Workout Jogging Walking Trail Road Marathon Training Athletic Sport Shoes Best Gift Sale,Problem: the title is keyword-stuffed and too long (warning).,https://shop.example.com/products/sku-106,https://shop.example.com/images/sku-106.jpg,8900 JPY,in_stock
+SKU-107,   ,Problem: the title contains only whitespace.,https://shop.example.com/products/sku-107,https://shop.example.com/images/sku-107.jpg,1500 JPY,in_stock
