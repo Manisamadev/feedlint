@@ -22,6 +22,6 @@ def test_empty_feed_has_no_issues():
 
 
 def test_issues_sorted_by_item_with_feed_level_first():
-    products = [make_product(), make_product(title="")]
+    products = [make_product(), make_product(id="SKU-002", title="")]
     issues = lint(products, rules=[*default_rules(), FeedLevelRule()])
     assert [i.item_index for i in issues] == [None, 2]
